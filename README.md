@@ -17,7 +17,7 @@ The command availables are:
 
 <kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>↑</kbd> = Move widnow to top using full screen width
 
-<kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>m</kbd> = Minimize window
+<kbd>⌥</kbd> + <kbd>⌘</kbd> + <kbd>⌃</kbd> + <kbd>m</kbd> = Maximize window
 
 # Setup & Instalation
 

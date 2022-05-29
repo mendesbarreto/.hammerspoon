@@ -41,13 +41,16 @@ end
 
 function miniOrMaximize() 
   local focusedWindow = hs.window.focusedWindow()
+ 
   
   if focusedWindow then
-    if focusedWindow:isMinimized() then
-      focusedWindow:unminimize()
-    else
-      focusedWindow:minimize()
-    end
+    focusedWindow:maximize()
+  -- TODO: I should discover how I can maximize a window after the user minimize it =S
+  --  if focusedWindow:isMinimized() == false then
+  --    focusedWindow:minimize()
+  --  else
+  --    focusedWindow:unminimize()
+  --  end
   else
     logger.d("No focused window to minimize or maximize")
   end 
