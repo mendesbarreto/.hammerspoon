@@ -35,7 +35,7 @@ brew install hammerspoon --cask
 git clone git@github.com:mendesbarreto/.hammerspoon.git ~/.hammerspoon
 ```
 
-Relead config using hammerspoon as shown in the picture below:
+Reload the config using hammerspoon as shown in the picture below:
 
 ![](docs/assets/hammerspoon-reload-ex.png)
 
