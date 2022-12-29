@@ -1,5 +1,5 @@
 
-mash = { "alt", "ctrl", "cmd" }
+mash = { "shift", "ctrl", "cmd" }
 logger = hs.logger.new('layout', 'debug')
 
 function getPosition(direction, window)
